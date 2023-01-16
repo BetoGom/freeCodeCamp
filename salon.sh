@@ -64,3 +64,4 @@ INSERT_APPOINTMENT $CUSTOMER_PHONE $SERVICE_ID_SELECTED $SERVICE_TIME
 echo -e "\nI have put you down for a $service_name at $SERVICE_TIME, $CUSTOMER_NAME."
 
 exit 0
+
